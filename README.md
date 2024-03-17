@@ -1,4 +1,4 @@
-# hugo-mock-landing-page-autodeployed
+# hugo-mock-landing-page-domain-name
 We deploy our mock landing page using a workflow defined as follows:
 
 ## Automated Build and Deployment
